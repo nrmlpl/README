@@ -14,9 +14,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nrmlompl&no-bg=true" alt="nrmlompl" /></a> </p>
 
-- 🔭 I’m currently working on **A Real Time Chat Application**
-
-- 🌱 I’m currently learning **React.js**
+- 🔭 I’m currently working with Eklavya Solution
 
 - 💬 Ask me about **React,Dsa**
 
